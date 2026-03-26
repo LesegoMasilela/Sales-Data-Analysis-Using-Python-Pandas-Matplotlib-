@@ -32,7 +32,7 @@ financial-transaction-analysis/
 # How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/financial-transaction-analysis.git
+   https://github.com/LesegoMasilela/financial-transaction-analysis.git
 
 2. Navigate into the folder:
    cd financial-transaction-analysis
